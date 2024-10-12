@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.beb1fc77.css",
-    "main.js": "/static/js/main.78cda8fc.js",
+    "main.js": "/static/js/main.f924b4a4.js",
     "static/js/787.d16e9580.chunk.js": "/static/js/787.d16e9580.chunk.js",
     "static/media/InstaBook.png": "/static/media/InstaBook.98e9be611d6e5e0aee5e.png",
     "static/media/pizza-system.png": "/static/media/pizza-system.2e2b97b6372ecae7225c.png",
     "static/media/estore.jpg": "/static/media/estore.16248a90531c90d2ca6b.jpg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/CV_MrinalDas.pdf": "/static/media/CV_MrinalDas.ed53c30d51146e309004.pdf",
+    "static/media/CV_MrinalDas.pdf": "/static/media/CV_MrinalDas.d126c43d73b72900232d.pdf",
     "static/media/moviezone.jpg": "/static/media/moviezone.664a7ef22bc7e32cc2c1.jpg",
     "static/media/noteKeeper.jpg": "/static/media/noteKeeper.a6a02061c89a1b3a8d02.jpg",
     "static/media/main-home.svg": "/static/media/main-home.a8572aa32cdf261007cc9ddfa7db346b.svg",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.beb1fc77.css.map": "/static/css/main.beb1fc77.css.map",
-    "main.78cda8fc.js.map": "/static/js/main.78cda8fc.js.map",
+    "main.f924b4a4.js.map": "/static/js/main.f924b4a4.js.map",
     "787.d16e9580.chunk.js.map": "/static/js/787.d16e9580.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.beb1fc77.css",
-    "static/js/main.78cda8fc.js"
+    "static/js/main.f924b4a4.js"
   ]
 }
